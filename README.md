@@ -3,8 +3,6 @@
 ![GitHub](https://img.shields.io/github/license/SerhanCeetin/Milanote-Unofficial-API)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Milanote-Unofficial-API)
 
----
-
 This is an unofficial api for [Milanote](https://milanote.com/). It can be used to automate planned tasks on Milanote. <br>
 It is **not** affiliated with Milanote in any way.<br>
 <br>
@@ -16,8 +14,6 @@ I am not responsible for any misuse of this library.
 
 ## Table of Contents
 
----
-
 - [Documentation](#documentation)
 - [Installation](#installation)
 - [Quickstart](#quickstart)
@@ -26,21 +22,15 @@ I am not responsible for any misuse of this library.
 
 ## Documentation
 
----
-
 Documentation can be found [here](https://serhanceetin.github.io/Milanote-Unofficial-API/docs).
 
 ## Installation
-
----
 
 ```bash
 pip install milanote-unofficial-api
 ```
 
 ## Quickstart
-
----
 
 ### How to get headers and cookies
 1. Login your Milanote account in your browser and go to home page.
@@ -52,8 +42,6 @@ pip install milanote-unofficial-api
 7. Now you can use the headers and cookies in the example below.
 
 ### Example usage
-
----
 
 ```python
 from MilanoteUnofficialApi import MilanoteApi
