@@ -28,7 +28,7 @@ I am not responsible for any misuse of this library.
 
 ---
 
-Documentation can be found [here](https://serhanceetin.github.io/Milanote-Unofficial-API/).
+Documentation can be found [here](https://serhanceetin.github.io/Milanote-Unofficial-API/docs).
 
 ## Installation
 
