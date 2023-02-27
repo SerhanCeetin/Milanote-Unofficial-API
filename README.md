@@ -1,7 +1,7 @@
 # Unofficial Milanote API for Python
 
 ![GitHub](https://img.shields.io/github/license/SerhanCeetin/Milanote-Unofficial-API)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Milanote-Unofficial-API)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Milanote-Unofficial-API)](https://pypi.org/project/milanote-unofficial-api/)
 
 This is an unofficial api for [Milanote](https://milanote.com/). It can be used to automate planned tasks on Milanote. <br>
 It is **not** affiliated with Milanote in any way.<br>
